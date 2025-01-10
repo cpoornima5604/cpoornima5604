@@ -2,16 +2,16 @@
 
 ###
 
-<p align="left">My Name is Poornima Chandrasekar and I'm a passionate Data Scientist, from Tamil Nadu, India.</p>
+<p align="left">My Name is Poornima Chandrasekar and I'm a Passionate Data Scientist, from Tamil Nadu, India.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
 <p align="left">
-  ✨ Creating data-driven solutions since 2022<br>
+  ✨ First, solve the problem. Then, write the code.<br>
   📚 I'm currently learning advanced machine learning techniques and exploring critical solutions for data-driven decision-making<br>
   🎯 Goals: To build scalable AI solutions that positively impact businesses and society<br>
   🎲 Fun Fact: As a critical and analytical thinker, I enjoy dissecting problems and finding innovative, efficient solutions.
