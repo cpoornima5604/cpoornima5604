@@ -12,9 +12,7 @@
 
 <p align="left">
   ✨ First, solve the problem. Then, write the code.<br>
-  📚 I'm currently learning advanced machine learning techniques and exploring critical solutions for data-driven decision-making<br>
   🎯 Goals: To build scalable AI solutions that positively impact businesses and society<br>
-  🎲 Fun Fact: As a critical and analytical thinker, I enjoy dissecting problems and finding innovative, efficient solutions.
 </p>
 
 ###
